@@ -3,6 +3,7 @@
 ## Table of Contents:
 - [Decription]( https://github.com/TahaMsv/IE-Git-HW/blob/master/README.md#descicption)
 - [How to run]( https://github.com/TahaMsv/IE-Git-HW/blob/master/README.md#how-to-run)
+- [Resources]( https://github.com/TahaMsv/IE-Git-HW/blob/master/README.md#resources)
 - [Contact me]( https://github.com/TahaMsv/IE-Git-HW/blob/master/README.md#contact-me)
 ## Descicption:
 
@@ -29,7 +30,7 @@ Lalr(1): Run the main function. The program gets n and m as table dimension. The
 [(Back to top)]( https://github.com/TahaMsv/IE-Git-HW/blob/master/README.md#table-of-contents)
 
 ## Resources:
-For a part of this project, I got help from @GKalhori's project.
+For a part of this project, I got help from @Gkalhori/LL1_Parser project.
 
 [(Back to top)]( https://github.com/TahaMsv/IE-Git-HW/blob/master/README.md#table-of-contents)
 ## Contact me
