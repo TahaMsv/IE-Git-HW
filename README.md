@@ -20,16 +20,16 @@ ll(1): First, write your grammar into the input.txt file. Then run the main func
 ```
 Lalr(1): Run the main function. The program gets n and m as table dimension. Then you should give your table to the programm. 
 ```
-[Back to top]( https://github.com/TahaMsv/IE-Git-HW/blob/master/README.md#table-of-contents)
+[(Back to top)]( https://github.com/TahaMsv/IE-Git-HW/blob/master/README.md#table-of-contents)
 ### Input example:
 ![input_example](https://user-images.githubusercontent.com/66914340/155888467-377720eb-b9d5-4299-98e9-42171031d67f.jpg)
 ### Output example:
 ![output-example](https://user-images.githubusercontent.com/66914340/155888471-3a350495-b4a2-470f-acaa-832de37a21b6.jpg)
 
-[Back to top]( https://github.com/TahaMsv/IE-Git-HW/blob/master/README.md#table-of-contents)
+[(Back to top)]( https://github.com/TahaMsv/IE-Git-HW/blob/master/README.md#table-of-contents)
 ## Contact me
 [email]( tahamousavi.sbu@gmail.com)
 
-[Back to top]( https://github.com/TahaMsv/IE-Git-HW/blob/master/README.md#table-of-contents)
+[(Back to top)]( https://github.com/TahaMsv/IE-Git-HW/blob/master/README.md#table-of-contents)
 
 
