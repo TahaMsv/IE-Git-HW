@@ -30,7 +30,7 @@ Lalr(1): Run the main function. The program gets n and m as table dimension. The
 [(Back to top)]( https://github.com/TahaMsv/IE-Git-HW/blob/master/README.md#table-of-contents)
 
 ## Resources:
-For a part of this project, I got help from @Gkalhori/LL1_Parser project.
+For a part of this project, I got help from [Gkalhori's project]( https://github.com/GKalhori/LL1_Parser).
 
 [(Back to top)]( https://github.com/TahaMsv/IE-Git-HW/blob/master/README.md#table-of-contents)
 ## Contact me
