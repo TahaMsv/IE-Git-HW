@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b4ed6c8b-1afe-4bd1-93f5-915ad8032be5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="23Il7GMB1YmDKGGWEVYft3ZEPZ9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager" selected="Application.LL1Grammar">
+    <configuration name="Computer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Computer" />
+      <module name="Compiler_Lalr1_Ll1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LL1Grammar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LL1Grammar" />
+      <module name="Compiler_Lalr1_Ll1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lalr1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lalr1" />
+      <module name="Compiler_Lalr1_Ll1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LL1Grammar" />
+        <item itemvalue="Application.Computer" />
+        <item itemvalue="Application.Lalr1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b4ed6c8b-1afe-4bd1-93f5-915ad8032be5" name="Default Changelist" comment="" />
+      <created>1641429313095</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1641429313095</updated>
+      <workItem from="1641429316925" duration="6582000" />
+      <workItem from="1641475560743" duration="12317000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="958" y="131" key="#com.intellij.ide.util.MemberChooser" timestamp="1641515317223">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="958" y="131" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1641515317223" />
+    <state width="1493" height="485" key="GridCell.Tab.0.bottom" timestamp="1641523965099">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="485" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1641523965099" />
+    <state width="1493" height="485" key="GridCell.Tab.0.center" timestamp="1641523965099">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="485" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1641523965099" />
+    <state width="1493" height="485" key="GridCell.Tab.0.left" timestamp="1641523965098">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="485" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1641523965098" />
+    <state width="1493" height="485" key="GridCell.Tab.0.right" timestamp="1641523965099">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="485" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1641523965099" />
+    <state width="1493" height="485" key="GridCell.Tab.1.bottom" timestamp="1641523965099">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="485" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1641523965099" />
+    <state width="1493" height="485" key="GridCell.Tab.1.center" timestamp="1641523965099">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="485" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1641523965099" />
+    <state width="1493" height="485" key="GridCell.Tab.1.left" timestamp="1641523965099">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="485" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1641523965099" />
+    <state width="1493" height="485" key="GridCell.Tab.1.right" timestamp="1641523965099">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="485" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1641523965099" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1641475565618">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1641475565618" />
+    <state x="770" y="178" key="extract.method.dialog" timestamp="1641519551986">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="770" y="178" key="extract.method.dialog/0.0.1536.824@0.0.1536.824" timestamp="1641519551986" />
+  </component>
+</project>
