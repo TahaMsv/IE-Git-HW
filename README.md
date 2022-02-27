@@ -1,5 +1,9 @@
 # IE-Git-HW
 
+## Table of Contents:
+- Decription
+- How to run
+- Contact me
 ## Descicption:
 
 This project is an implementation of a Lalr1 and LL(1) top-down Parser.
