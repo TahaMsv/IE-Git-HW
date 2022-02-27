@@ -1,9 +1,9 @@
 # IE-Git-HW
 
 ## Table of Contents:
-- Decription
-- How to run
-- Contact me
+- [Decription]( https://github.com/TahaMsv/IE-Git-HW/blob/master/README.md#descicption)
+- [How to run]( https://github.com/TahaMsv/IE-Git-HW/blob/master/README.md#how-to-run)
+- [Contact me]( https://github.com/TahaMsv/IE-Git-HW/blob/master/README.md#contact-me)
 ## Descicption:
 
 This project is an implementation of a Lalr1 and LL(1) top-down Parser.
