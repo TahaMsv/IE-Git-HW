@@ -18,4 +18,4 @@ Lalr(1): Run the main function. The program gets n and m as table dimension. The
 ```
 
 ## Contact me
-email: tahamousavi.sbu@gmail.com
+[email]( tahamousavi.sbu@gmail.com)
