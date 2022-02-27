@@ -27,6 +27,11 @@ Lalr(1): Run the main function. The program gets n and m as table dimension. The
 ![output-example](https://user-images.githubusercontent.com/66914340/155888471-3a350495-b4a2-470f-acaa-832de37a21b6.jpg)
 
 [(Back to top)]( https://github.com/TahaMsv/IE-Git-HW/blob/master/README.md#table-of-contents)
+
+## Resources:
+For a part of this project, I got help from @GKalhori's project.
+
+[(Back to top)]( https://github.com/TahaMsv/IE-Git-HW/blob/master/README.md#table-of-contents)
 ## Contact me
 [email]( tahamousavi.sbu@gmail.com)
 
