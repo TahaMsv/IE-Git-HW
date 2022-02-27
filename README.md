@@ -7,4 +7,4 @@ LAlr1: it gets a table as input, and give you optimal table base on Lalr1.
 
 How to run:
 ll(1): First, write your grammar into the input.txt file. Then run the main function.
-Lalr(1): Run the main function. The programm gets n and m as table dimension. Then you should give your table to the programm. 
+Lalr(1): Run the main function. The program gets n and m as table dimension. Then you should give your table to the programm. 
