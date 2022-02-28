@@ -35,6 +35,9 @@ Lalr(1): Run the main function. The program gets n and m as table dimension. The
 [(Back to top)]( https://github.com/TahaMsv/IE-Git-HW/blob/master/README.md#table-of-contents)
 
 ## Acknowledgments:
-For a part of this project, I got help from [Gkalhori's project]( https://github.com/GKalhori/LL1_Parser).
-
+For a part of this project, I got help from these resources:
+- Thanks to @Gkalhori. [Gkalhori's project]( https://github.com/GKalhori/LL1_Parser)
+- [Lalr1]( https://en.wikipedia.org/wiki/LALR_parser)
+- [Ll1]( https://en.wikipedia.org/wiki/LL_parser)
+- 
 [(Back to top)]( https://github.com/TahaMsv/IE-Git-HW/blob/master/README.md#table-of-contents)
