@@ -1,15 +1,12 @@
 # IE-Git-HW
 
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li><a href="#About-The-Project">About The Project</a></li>
-    <li><a href="#how-to-run">How to run</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#contact-me">Contact me</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
+## Table of contents:
+
+- [About The Project]( About-The-Project)
+- [How to run](how-to-run)
+- [Contributing]( contributing)
+- [Contact me]( contact-me)
+- [Acknowledgments]( acknowledgments)
 
 ## About The Project:
 
