@@ -3,7 +3,7 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href="#description">Description</a></li>
+    <li><a href="#About-The-Project">About The Project</a></li>
     <li><a href="#how-to-run">How to run</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#contact-me">Contact me</a></li>
@@ -11,7 +11,7 @@
   </ol>
 </details>
 
-## Description:
+## About The Project:
 
 This project is an implementation of a Lalr1 and LL(1) top-down Parser.
 ```
