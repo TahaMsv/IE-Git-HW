@@ -1,74 +1,40 @@
+# IE-Git-HW
 
-# Cool Compiler
-This project is developed for SBU Compiler Design Course - Fall 2020 
+## Table of contents:
 
-<!-- TABLE OF CONTENTS -->
-# Table of Contents
-1. [About The Project](#AboutTheProject)
-2. [Auxiliary Tools](#AuxiliaryTools)
-3. [How To Use](#HowToUse)
-4. [Roadmap](#Roadmap)
-5. [Contributing](#Contributing)
-6. [License](#License)
+- [About The Project]( About-The-Project)
+- [How to run](how-to-run)
+- [Contributing]( contributing)
+- [Contact me]( contact-me)
+- [Acknowledgments]( acknowledgments)
+- [License](license)
 
-<!-- ABOUT THE PROJECT -->
-## About The Project <a name="AboutTheProject"></a>
+## About The Project:
 
-
-
-It has 3 Phases that in each phase the focus is on a specific part of a real compiler.
-- Phase 1 (Scanner)
-- Phase 2 (Parser)
-- Phase 3 (Code Generator)
-
-
-> This project is not a full compiler at all!
-> It is just a simple implementation of a compiler (with many bugs :) ) based on lessons of the course and course assistant team's rules
-
-<p align="right">(<a href="#top">back to top</a>)</p>   
-
-
-
-## Auxiliary Tools <a name="AuxiliaryTools"></a>
-
-In this project, we use some useful libraries and projects to make implementation easier.
-
-* [Jflex -  Lexical Analyzer Generator](https://www.jflex.de/)
-* [PGen  -  Graphical LL(1) Parser Generator ](https://github.com/Borjianamin98/PGen)
-* [SPIM  -  Simulator For Programs Written For MIPS R2000/R3000 Processors ](http://spimsimulator.sourceforge.net/)
+This project is an implementation of a Lalr1 and LL(1) top-down Parser.
+```
+ll(1): you can give input as grammer and get it's first, follow, and nullable set. it geives you parse table too.
+```
+```
+LAlr1: it gets a table as input, and give you optimal table base on Lalr1.
+```
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-## How To Use <a name="HowToUse"></a>
-In Each Phase, There Are Some Necessary Tasks For Running The Program.
-
-* Phase 1 : 
-[test.txt](https://github.com/Aminsaveh/SBU_IE_HW1/tree/main/SBU_Compiler/Phase1/src/test.txt) Is The Input File For Scanner. You Just Need To Change This File For Testing More Inputs. You Can Also See The Result In [output.html](https://github.com/Aminsaveh/SBU_IE_HW1/tree/main/SBU_Compiler/Phase1/src/output.html)
-
-* Phase 2 : In This Phase We need [InputCoolFilePath](https://github.com/Aminsaveh/SBU_IE_HW1/tree/main/SBU_Compiler/Phase2/PROJECT/test/in) And [OutputFilePath](https://github.com/Aminsaveh/SBU_IE_HW1/tree/main/SBU_Compiler/Phase2/PROJECT/out/result) And [TablePath](https://github.com/Aminsaveh/SBU_IE_HW1/tree/main/SBU_Compiler/Phase2/PROJECT/src/table.npt) You Can Change Each Of Them For Different Tests. To Run The Program, You Should Run  [Main.java](https://github.com/Aminsaveh/SBU_IE_HW1/tree/main/SBU_Compiler/Phase2/PROJECT/src/Main.java) Like Below     &emsp; &emsp; &emsp; &emsp; &emsp;&emsp; java [javaClassFile] --input [inputCoolFilePath] --output [outputFilePath] --table [tablePath]
-
-* Phase 3 : You Should Just Run [Main.java](https://github.com/Aminsaveh/SBU_IE_HW1/tree/main/SBU_Compiler/Phase3/PROJECT/src/Main.java). The SPIM Output Will Be Created In [code.s](https://github.com/Aminsaveh/SBU_IE_HW1/tree/main/SBU_Compiler/Phase3/PROJECT/src/code.s).  You Can Also Change Input File (Cool Program) [test.cool](https://github.com/Aminsaveh/SBU_IE_HW1/tree/main/SBU_Compiler/Phase3/PROJECT/src/test.cool)
+## How to run:
+```
+ll(1): First, write your grammar into the input.txt file. Then run the main function.
+```
+```
+Lalr(1): Run the main function. The program gets n and m as table dimension. Then you should give your table to the programm. 
+```
+### Input example:
+![input_example](https://user-images.githubusercontent.com/66914340/155888467-377720eb-b9d5-4299-98e9-42171031d67f.jpg)
+### Output example:
+![output-example](https://user-images.githubusercontent.com/66914340/155888471-3a350495-b4a2-470f-acaa-832de37a21b6.jpg)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-<!-- ROADMAP -->
-## Roadmap <a name="Roadmap"></a>
-
-- [ ] Fix Scanner Problems (Phase 1)
-- [ ] Change Graph For Accepting All Declarartions And Assignments In Any Order (Phase 2)
-- [ ] Add Array Support (Phase 3)
-- [ ] Fix Logical Computations (Phase 3)
-- [ ] Clean The Project :) (All Phases)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-
-<!-- Contributing -->
-## Contributing  <a name="Contributing"></a>
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+## Contributing
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
 Don't forget to give the project a star! Thanks again!
@@ -81,9 +47,22 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-<!-- LICENSE -->
-## License <a name="License"></a>
+## Contact me
+[email]( tahamousavi.sbu@gmail.com)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+## Acknowledgments:
+For a part of this project, I got help from these resources:
+- Thanks to @GKalhori. [Gkalhori's project]( https://github.com/GKalhori/LL1_Parser)
+- [Lalr1]( https://en.wikipedia.org/wiki/LALR_parser)
+- [Ll1]( https://en.wikipedia.org/wiki/LL_parser)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+## License 
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+
