@@ -7,6 +7,7 @@
 - [Contributing]( contributing)
 - [Contact me]( contact-me)
 - [Acknowledgments]( acknowledgments)
+- [License](license)
 
 ## About The Project:
 
@@ -56,6 +57,12 @@ For a part of this project, I got help from these resources:
 - Thanks to @GKalhori. [Gkalhori's project]( https://github.com/GKalhori/LL1_Parser)
 - [Lalr1]( https://en.wikipedia.org/wiki/LALR_parser)
 - [Ll1]( https://en.wikipedia.org/wiki/LL_parser)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+## License 
+
+Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
